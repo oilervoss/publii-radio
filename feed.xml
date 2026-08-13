@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Radio Euler</title>
+    <link href="https://oilervoss.github.io/publii-radio/feed.xml" rel="self" />
+    <link href="https://oilervoss.github.io/publii-radio" />
+    <updated>1969-12-31T19:00:00-05:00</updated>
+    <author>
+        <name>OIler</name>
+    </author>
+    <id>https://oilervoss.github.io/publii-radio</id>
+
+</feed>

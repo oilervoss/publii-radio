@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Radio Euler",
+    "description": "",
+    "home_page_url": "https://oilervoss.github.io/publii-radio",
+    "feed_url": "https://oilervoss.github.io/publii-radio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "OIler"
+    },
+    "items": [
+    ]
+}
